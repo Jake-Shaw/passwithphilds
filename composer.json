@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/passwithphil",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "Author": "Jake Shaw",
+      "email": "jakeshaw121@gmail.com"
+    }
+  ],
+  "require": {
+    "wp-cli/wp-cli": ">=2.5.x-dev"
+  }
+}
